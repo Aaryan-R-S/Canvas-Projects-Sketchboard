@@ -1,0 +1,52 @@
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+canvas{
+    margin-top: 4vh;
+    background-color: white;
+    border: 10px solid rgba(0, 60, 255, 0.616);
+}
+#tools{
+    background-color: rgba(19, 216, 223, 0.63);
+    text-align: left;
+    border-radius: 10px;
+    padding: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    left: 150px;
+    top: 120px;
+}
+
+button, #sizeT, #col{
+    cursor: pointer;
+    font-size: 25px;
+    padding: 5px 0px;
+    border: 2px solid rgb(12, 12, 12);
+    outline: none;
+    border-radius: 5px;
+    color: white;
+    margin: 5px 10px;
+}
+
+button:hover, #sizeT:hover{
+    background-color: #fff;
+    border: 2px solid rgb(255, 255, 255);
+    color: black;
+}
+
+#col{
+    background-color: white;
+    border: none;
+    padding: 0px;
+    border-radius: 0;
+    font-size: 20px;
+    height: 40px;
+}
+#clear{
+    font-size: 15px;
+    height: 40px;
+}
