@@ -5,10 +5,10 @@
     <img src="readme-images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Todo App</h3>
+  <h3 align="center">Sketchboard Game</h3>
 
   <p align="center">
-    An awesome project to help in maintaining a Todo list!
+    An awesome game to make your mind stress-free!
     <br />
     <strong>Explore the docs »</strong>
     <br />
@@ -58,7 +58,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-This is a Collision game developed using HTML Canvas and served as a static webpage using GitHub pages. It is mind relaxing and fun-playing that really suit my needs. I usually play this to relax myself to make stress-free environment!
+This is a Sketchboard Game developed using HTML Canvas and served as a static webpage using GitHub pages. It is mind relaxing and fun-playing that really suit my needs. I usually play this to relax myself to make stress-free environment!
 
 ### Built With
 
